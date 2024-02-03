@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jsdwrld@gmail.com**
 
-- ⚡ Fun fact **I hosted 15 different Minecraft Servers at age 11.**
+- ⚡ Fun fact **I hosted 12 different Minecraft Servers at age 11.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsdwrld&show_icons=true&locale=en&layout=compact" alt="jsdwrld" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsdwrld&show_icons=true&locale=en" alt="jsdwrld" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsdwrld&" alt="jsdwrld" /></p>
 
