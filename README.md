@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Assembly Language, and Python**
 
-- 💬 Ask me about **React, MongoDB, Node, Express**
+- 💬 Check out **[My Website](https://dongjohn.com/)**
 
 - 📫 How to reach me **jsdwrld@gmail.com**
 
