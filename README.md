@@ -1,4 +1,4 @@
-<h1 align="center">Hey, John Dong</h1>
+<h1 align="center">Hey, I'm John Dong</h1>
 <h3 align="center">A passionate computer science student at CSUS.</h3>
 
 - 🌱 I’m currently learning **Java, Assembly Language, and Python**
