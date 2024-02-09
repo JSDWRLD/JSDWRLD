@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java, Assembly Language, and Python**
 
-- 💬 Check out **[My Website](https://dongjohn.com/)**
-
 - 📫 How to reach me **jsdwrld@gmail.com**
 
 - ⚡ Fun fact **I hosted 7 different Minecraft Servers at age 11.**
