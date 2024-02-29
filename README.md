@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm John S. Dong</h1>
 <h3 align="center">A passionate computer science student at CSUS.</h3>
 
-- 🌱 I’m currently learning **Java, React.js, and Python**
+- 🌱 I’m currently learning **Java, Vue.js, React.js, and Python**
 
 - 📫 How to reach me **jsdwrld@gmail.com**
 
