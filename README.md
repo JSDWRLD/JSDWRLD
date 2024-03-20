@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm John S. Dong</h1>
-<h3 align="center">A passionate Computer Science student.</h3>
+<h3 align="center">A life long learner.</h3>
 
 - 🌱 I’m currently learning **Vue.js, React.js, and Python**
 
