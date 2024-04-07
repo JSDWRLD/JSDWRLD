@@ -10,8 +10,8 @@
 # About Me 💫
 - I'm currently working on ![WRLD.io](https://github.com/JSDWRLD/WRLD.io)<br>
 - I'm adopting Go to eventually be a terminal only programmer.<br>
-- How to reach me **jsdwrld@gmail.com**<br>
 - Fun fact I recently won a AI Hackathon, Ask me about SafeGuard AI!
+- How to reach me **jsdwrld@gmail.com**<br>
 
 
 # Tech Stack 💻
