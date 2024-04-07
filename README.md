@@ -8,10 +8,10 @@
 </p>
 
 # About Me 💫
-- 🔭 I'm currently working on ![WRLD.io](https://github.com/JSDWRLD/WRLD.io)<br>
-- 🌱 I'm adopting Go to eventually be a terminal only programmer.<br>
-- 📫 How to reach me **jsdwrld@gmail.com**<br>
-- ⚡ Fun fact I recently won a AI Hackathon, Ask me about SafeGuard AI!
+- I'm currently working on ![WRLD.io](https://github.com/JSDWRLD/WRLD.io)<br>
+- I'm adopting Go to eventually be a terminal only programmer.<br>
+- How to reach me **jsdwrld@gmail.com**<br>
+- Fun fact I recently won a AI Hackathon, Ask me about SafeGuard AI!
 
 
 # Tech Stack 💻
@@ -65,7 +65,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
-# 📊 GitHub Stats:
+# GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=jsdwrld&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdwrld&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
