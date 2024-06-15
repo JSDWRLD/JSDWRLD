@@ -8,9 +8,8 @@
 </p>
 
 # About Me 💫
-- I'm currently working on WRLD.io<br>
-- I'm adopting Go to eventually be a terminal only programmer.<br>
-- Fun fact I recently won a AI Hackathon, Ask me about SafeGuard AI!
+- I'm currently working on [WRLD.io](https://github.com/JSDWRLD/WRLD.io)<br>
+- Fun Fact, SafeGuard AI my project, is on route to being implemented at 3 schools/universities!
 - How to reach me **jsdwrld@gmail.com**<br>
 
 
