@@ -1,4 +1,4 @@
-<h1 align="center"> Ahoy There, I'm John </br> 
+<h1 align="center"> Chips Ahoy There, I'm John </br> 
 </h1>
 <p align="center">My Imagination Box 📦</p>
 <p align="center">Where the Mind Goes the Body Will Follow~</p>
@@ -9,18 +9,33 @@
 
 # About Me 💫
 - I'm currently working on [WRLD.io](https://github.com/JSDWRLD/WRLD.io)<br>
-- Fun Fact, SafeGuard AI my project, is on route to being implemented at 3 schools/universities!
+- Fun Fact, [SafeGuard AI](https://github.com/JSDWRLD/SafeGuard-AI) my project, is on track to being implemented at 3 schools/universities!
 - How to reach me **jsdwrld@gmail.com**<br>
 
 
 # Tech Stack 💻
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+
+#### Cloud Services & Web Hosting
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+
+#### Database/State
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 #### JS Framework/Library
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -42,22 +57,9 @@
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-#### Database/State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-
 #### Backend
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
-
-#### Web Hosting
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-
-#### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
