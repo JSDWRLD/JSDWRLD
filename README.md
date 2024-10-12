@@ -1,6 +1,6 @@
 <h1 align="center"> Chips Ahoy There, I'm John </br> 
 </h1>
-<p align="center">My Imagination Box 📦</p>
+<p align="center">This is my Imagination Box 📦</p>
 <p align="center">Where the Mind Goes the Body Will Follow~</p>
 <p align="center">
   <a href="https://linkedin.com/in/jsdwrld" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
@@ -10,8 +10,6 @@
 # About Me 💫
 - I'm currently working on [WRLD.io](https://github.com/JSDWRLD/WRLD.io)<br>
 - Fun Fact, [SafeGuard AI](https://github.com/JSDWRLD/SafeGuard-AI) my project, is on track to being implemented at 3 schools/universities!
-- How to reach me **jsdwrld@gmail.com**<br>
-
 
 # Tech Stack 💻
 #### Languages
@@ -65,13 +63,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-
-# GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=jsdwrld&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsdwrld&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## GitHub Streaks 🔥
-![](https://github-readme-streak-stats.herokuapp.com/?user=jsdwrld&theme=dark&hide_border=false)
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=jsdwrld&icon=0&color=0)](https://visitcount.itsvg.in) -->
