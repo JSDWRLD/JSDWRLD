@@ -1,4 +1,4 @@
-<h1 align="center"> Chips Ahoy There, I'm John </br> 
+<h1 align="center"> Ello Captain </br> 
 </h1>
 <p align="center">This is my Imagination Box 📦</p>
 <p align="center">Where the Mind Goes the Body Will Follow~</p>
@@ -9,7 +9,7 @@
 
 # About Me 💫
 - I'm currently working on [WRLD.io](https://github.com/JSDWRLD/WRLD.io)<br>
-- Fun Fact, [SafeGuard AI](https://github.com/JSDWRLD/SafeGuard-AI) my project, is on track to being implemented at 3 schools/universities!
+- Checkout [SafeGuard AI](https://github.com/JSDWRLD/SafeGuard-AI) my project, which has won over $30,000 in prize money!
 
 # Tech Stack 💻
 #### Languages
