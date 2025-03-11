@@ -8,7 +8,7 @@
 </p>
 
 # About Me 💫
-- Take a look at my portfolio here! [WRLD.io](https://jsdwrld.vercel.app/)<br>
+- Take a look at my portfolio [here](https://jsdwrld.vercel.app/)!<br>
 - Checkout [SafeGuard AI](https://github.com/JSDWRLD/SafeGuard-AI) my project, which has won over $30,000 in prize money!
 
 # Tech Stack 💻
